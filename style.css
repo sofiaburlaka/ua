@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(252, 250, 189, 0.679);
+}
+.image{
+    width: 50vw;
+    margin-left: 25%;
+}
+h1{
+    font-style: italic;
+    font-size: 5vw;
+    margin-left: 25%;
+}
